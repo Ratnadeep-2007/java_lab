@@ -1,0 +1,16 @@
+# Maven build output
+target/
+
+# NetBeans private (per-user) settings
+nbproject/private/
+desktop/nbproject/private/
+
+# Desktop build output (start.bat and NetBeans Ant build)
+desktop/build/
+desktop/dist/
+desktop/classes/
+desktop/sources.txt
+target/sources.txt
+
+# Compiled classes
+*.class
